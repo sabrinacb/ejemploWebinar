@@ -12,7 +12,7 @@ nav a { color: white!important; font-weight: 800;}
 
 .bg-light {background-color: #4C1D90!important;}
 
-.contenedor { background-image: url(https://lh4.googleusercontent.com/5jtBaHRItJMUQ3X2A9f4EgFwRQC37-YybLsG-SJtC_aiTK9CS4nZIG5JJLzSSN8duuunxS7K8VAXw4rOJwtk01k=w16383); background-size: cover; height: 100vh; background-position: -100% center; background-attachment: fixed; }
+.contenedor { background-image: url(https://lh4.googleusercontent.com/5jtBaHRItJMUQ3X2A9f4EgFwRQC37-YybLsG-SJtC_aiTK9CS4nZIG5JJLzSSN8duuunxS7K8VAXw4rOJwtk01k=w16383); background-size: cover; height: 100vh; background-position: center;  background-repeat: no-repeat; background-attachment: fixed;}
 
 #especial { border-radius:  150%/50%;}
 
@@ -53,3 +53,6 @@ nav a { color: white!important; font-weight: 800;}
   .card button:hover, a:hover {
     opacity: 0.7;
   }
+
+
+
